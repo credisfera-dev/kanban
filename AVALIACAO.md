@@ -1,6 +1,6 @@
 # Topa um Desafio Java?
 
-Essa applicação está dividida em dois projetos, um frontend e outro backend. O projeto frontend utiliza o VueJS como framework Javascript, e o projeto backend utiliza o SpringBoot como framework Java. Não esqueça de ler os arquivos README.md de cada projeto.
+Essa aplicação está dividida em dois projetos, um frontend e outro backend. O projeto frontend utiliza o VueJS como framework Javascript, e o projeto backend utiliza o SpringBoot como framework Java. Não esqueça de ler os arquivos README.md de cada projeto.
 
 ## 1. O Software
 
