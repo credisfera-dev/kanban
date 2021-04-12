@@ -7,7 +7,7 @@ Essa aplicação está dividida em dois projetos, um frontend e outro backend. O
 O software em execução terá a aparência conforme imagem abaixo:
 ![demo](demo.png)
 
-Nesse pequena aplicação são utilizadas as seguintes tecnologias:
+Nessa pequena aplicação são utilizadas as seguintes tecnologias:
 
 1. Manven para build e gerenciamento de dependências;
 2. JPA/Hibernate para mapeamento objeto-relacional;
@@ -45,7 +45,7 @@ O recurso Soft Delete ou exclusão suave é bem simples: significa que ao invés
 2. Permitir que uma tarefa seja excluída fisicamente do banco de dados. O soft delete deve ser removido.
 
 
-## 4. Requisito Não Funcionais
+## 4. Requisito Não Funcional
 
 1. Permitir a atualização do banco de dados através de scripts de migração. Veja a pasta src/main/resources/db/migration.
 
