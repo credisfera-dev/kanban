@@ -4,7 +4,7 @@ Essa applicação está dividida em dois projetos, um frontend e outro backend. 
 
 ## 1. O Software
 
-O software em execução terá a aparencia conforme imagem abaixo:
+O software em execução terá a aparência conforme imagem abaixo:
 ![demo](demo.png)
 
 Nesse pequena aplicação são utilizadas as seguintes tecnologias:
