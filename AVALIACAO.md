@@ -23,7 +23,7 @@ Recomendamos pesquisar sobre cada tecnologia, caso não conheça. O projeto é p
 
 ## 2. O Desafio
 
-O desafio será criar novas funcionalidades para essa aplicação de Kanban Web. Essas novas funcionalidades vieram de duas áreas diferentes. O Scrum Master da empresa solicitou que cada uma das tarefa pudessem ter níveis de prioridades diferentes. O Administrador de banco de dados solicitou que as tarefas pudessem ser excluídas fisicamente do banco de dados. Hoje as tarefas são excluídas através de um soft delete.
+O desafio será criar novas funcionalidades para essa aplicação de Kanban Web. Essas novas funcionalidades vieram de duas áreas diferentes. O Scrum Master da empresa solicitou que cada uma das tarefas pudessem ter níveis de prioridades diferentes. O Administrador de banco de dados solicitou que as tarefas pudessem ser excluídas fisicamente do banco de dados. Hoje as tarefas são excluídas através de um soft delete.
 
 ### 2.1 Você sabe o que é Kanban?
 
