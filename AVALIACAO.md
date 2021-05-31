@@ -78,4 +78,8 @@ O total de pontos dessa prova é 10,00. Responda aquilo que conseguir, pois a co
 
 4. (1,0 Ponto) Você conseguiu executar todos os testes? Grave um vídeo mostrando cada um dos testes.
 
+## 7. Entrega do Desafio
+
+Quando enviar o desafio, envie os vídeos e também o código-fonte.
+
 Desejamos muito sucesso para você!
